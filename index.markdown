@@ -11,7 +11,7 @@ Artwork by David Palmer
 <br>
 
 # Description
-Enigmia is a Tool to encrypt and decrypt files on your harddrive. It is written in Python and very simple to use. For further information have a look in the Docs.
+Enigmia is a tool to encrypt and decrypt files on your harddrive. It is written in Python and very simple to use. For further information have a look at the docs.
 
 # Disclaimer
 Be careful with this tool and do not use it to harm other people.
